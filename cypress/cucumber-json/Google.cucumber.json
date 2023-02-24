@@ -1,0 +1,42 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Login Feature",
+    "line": 1,
+    "id": "login-feature",
+    "tags": [],
+    "uri": "Google.feature",
+    "elements": [
+      {
+        "id": "login-feature;login-validation",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Login Validation",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "Visit google home page",
+            "result": {
+              "status": "passed",
+              "duration": 2474000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "search tom and jerry",
+            "result": {
+              "status": "passed",
+              "duration": 7892000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
