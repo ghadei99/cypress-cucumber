@@ -22,7 +22,7 @@
             "name": "Visit google home page",
             "result": {
               "status": "passed",
-              "duration": 2474000000
+              "duration": 2215000000
             }
           },
           {
@@ -32,7 +32,7 @@
             "name": "search tom and jerry",
             "result": {
               "status": "passed",
-              "duration": 7892000000
+              "duration": 6400000000
             }
           }
         ]

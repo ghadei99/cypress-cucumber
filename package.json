@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "generate-report":"node cucumber-reporter-maker.js"
+    "generate-report":"node cucumber-reporter-maker.js",
+    "run" : "npx cypress run"
   },
   "author": "",
   "license": "ISC",
